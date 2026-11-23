@@ -31,8 +31,16 @@ def main() -> int:
         return 1
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
     os.makedirs(out_dir, exist_ok=True)
-    with open(os.path.join(out_dir, "entry.txt"), "w", encoding="utf-8") as f:
+    path = os.path.join(out_dir, "entry.txt")
+    with open(path, "w", encoding="utf-8") as f:
         f.write(JOKE)
+    # Read-back guard: the file the grader reads must be exactly the joke,
+    # no trailing newline, no partial write.
+    with open(path, encoding="utf-8") as f:
+        if f.read() != JOKE:
+            print("entry.txt does not match the joke after write",
+                  file=sys.stderr)
+            return 1
     return 0
 
 
