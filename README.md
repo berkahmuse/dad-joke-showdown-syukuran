@@ -1,10 +1,10 @@
 # The Yeast I Can Do — Dad Joke Showdown (@syukuran)
 
-[![Dad Joke Showdown](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5.svg)](https://make.fun/competitions/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
-[![Rank](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/syukuran/dad-joke-showdown-syukuran/rank.svg)](https://make.fun/competitions/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
-[![Reward](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/syukuran/dad-joke-showdown-syukuran/reward.svg)](https://make.fun/competitions/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+[![Make.fun competition](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5.svg)](https://make.fun/c/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+[![Rank](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/berkahmuse/dad-joke-showdown-syukuran/rank.svg)](https://make.fun/c/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+[![Reward](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/berkahmuse/dad-joke-showdown-syukuran/reward.svg)](https://make.fun/c/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
 
-Entry for the [Dad Joke Showdown](https://make.fun/competitions/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+Entry for the [Dad Joke Showdown](https://make.fun/c/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
 bounty on [make.fun](https://make.fun): one dad joke, at most 200 characters,
 written to be told out loud at the dinner table.
 
